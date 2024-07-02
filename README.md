@@ -2,25 +2,14 @@
 
 Here's who I Am
 
--  🖥️  See my portfolio at (http://obendesmond.com/)
--  I'm a (ReactJS - NodeJS)/TS Expert
--  I'm an Instructor at Udemy (https://www.udemy.com/user/ako-desmond/) and also a One-on-One Tech career coach in the JS eco-system
--  I’m currently perfecting my React Native skills for mobile app development
--  I also have Python and Svelt on my learning list 😊
-
-### 📹 Partners
-I'm passionate about sharing my knowledge and expertise with aspiring developers and tech enthusiasts. With over 5,000 students, I have created courses that are published on various platforms.
-- Udemy (https://www.udemy.com/user/ako-desmond/)
-- Packt Publishing
-- TutorialsPoint
-- Learnfly
-- Eduonix 
+-  I'm a ReactJS Developer
+- I'm good in HTML / CSS / JS
 
 <p align="left" style="position:absolute;right:0;bottom:300"> 
   <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obendesmond&label=Profile%20views&color=F09333&style=flat" alt="obendesmond" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaku86&label=Profile%20views&color=F09333&style=flat" alt="zaku" /> </p>
 
 ### Skills
 
